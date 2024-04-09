@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://landify.design/curriculum/sitemap-index.xml
+Host: https://landify.design
